@@ -20,6 +20,6 @@ Microsoft Power BI Desktop (Pour l'interface de reporting).
 
 ## Lancer le Tableau de Bord
 
-Double-cliquez sur le fichier **Hackathon Grippe.pbix.**
+Double-cliquez sur le fichier **Hackathon Grippe (2).pbix.**
 
 Dans Power BI, cliquez sur Actualiser (Refresh) si les données ne sont pas à jour.
