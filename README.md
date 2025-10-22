@@ -1,4 +1,4 @@
-# README.md : Projet Hackathon Grippe 💉
+# Projet Hackathon Grippe 💉
 
 Ce projet a été développé lors du Hackathon Epitech et vise à optimiser la stratégie vaccinale contre la grippe via l'analyse de l'Open Data.
 
